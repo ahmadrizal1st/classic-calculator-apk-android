@@ -1,0 +1,117 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator display -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M20,20h68v16h-68z" />
+
+    <!-- Display digits -->
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M24,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M34,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M44,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M54,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M64,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M74,24h8v4h-8z" />
+    <path
+        android:fillColor="#FF00FF00"
+        android:pathData="M82,24h8v4h-8z" />
+
+    <!-- Calculator buttons -->
+    <!-- Number buttons -->
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M20,52h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M38,52h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M56,52h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M74,52h16v12h-16z" />
+
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M20,66h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M38,66h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M56,66h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M74,66h16v12h-16z" />
+
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M20,80h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M38,80h16v12h-16z" />
+    <path
+        android:fillColor="#FF4A5568"
+        android:pathData="M56,80h16v12h-16z" />
+
+    <!-- Operator buttons -->
+    <path
+        android:fillColor="#FFFF5722"
+        android:pathData="M74,80h16v12h-16z" />
+
+    <!-- Button labels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,56h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,56h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,56h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M79,56h6v2h-6z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,70h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,70h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,70h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M79,70h6v2h-6z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,84h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,84h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,84h6v2h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M79,84h6v2h-6z" />
+</vector>
